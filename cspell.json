@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+  "language": "en",
+  "words": [
+    "combobox",
+    "compat",
+    "embla",
+    "lefthook",
+    "lucide",
+    "tseslint",
+    "typecheck",
+    "vite",
+  ],
+  "ignorePaths": [
+    "node_modules",
+    "dist",
+    "pnpm-lock.yaml"
+  ]
+}
